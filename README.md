@@ -1,4 +1,4 @@
-Stuff my brain with binary rain🔥
+nothing professional here, just a student making some silly projects.
 
 <!---
 CB76565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
