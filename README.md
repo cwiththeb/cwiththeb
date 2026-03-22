@@ -1,6 +1,1 @@
-nothing professional here, just a student making some silly projects.
-
-<!---
-CB76565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This GitHub profile contains projects and solutions that focus on solving problems, building efficient and helpful systems, and much more.
